@@ -28,8 +28,6 @@
   Data analysis and Data science project.  
 - 🤔 **I’m looking for help with**  
   Advanced ML model optimization and breaking into the data science industry.  
-- 💬 **Ask me about**  
-  Data cleaning, financial analysis, or how to pivot from accounting to data science!  
 - 📫 **How to reach me**  
   Email: [Lamzahheraberin@gmail.com](mailto:Lamzahheraberin@gmail.com) | LinkedIn: [Lamzahhera Berinpalla](https://www.linkedin.com/in/lamzahheraberinpalla/)
 
