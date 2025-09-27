@@ -25,9 +25,7 @@
 - 🌱 **I’m currently learning**  
   Machine Learning, Statistics, and Data Visualization through the [Data Science Bootcamp at Dibimbing.id](https://dibimbing.id/). Tools: Python (Pandas, Scikit-learn), SQL, Tableau.  
 - 👯 **I’m looking to collaborate on**  
-  Data analysis and Data science project.  
-- 🤔 **I’m looking for help with**  
-  Advanced ML model optimization and breaking into the data science industry.  
+  Data analysis and Data science project. 
 - 📫 **How to reach me**  
   Email: [Lamzahheraberin@gmail.com](mailto:Lamzahheraberin@gmail.com) | LinkedIn: [Lamzahhera Berinpalla](https://www.linkedin.com/in/lamzahheraberinpalla/)
 
